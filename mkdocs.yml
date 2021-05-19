@@ -1,0 +1,16 @@
+site_name: Recommender Documentation
+nav:
+  - Home: index.md
+  - About Azure: about.md
+  - Recommender Architecture: architecture.md
+  - DevOps: devops.md
+  - App Services: appservices.md
+  - Azure SQL: azuresql.md
+  - App Insights: appinsights.md
+  - Storage: azurestorage.md
+  - Pub-Sub: messagingqueues.md
+  - Containers: containers.md
+  - Azure CLI: azurecli.md
+  - Azure Console: azureconsole.md
+
+theme: readthedocs
